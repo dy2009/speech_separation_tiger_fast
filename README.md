@@ -13,7 +13,7 @@ Speed on CPU:
 effect on EchoSet:
 
 | Model Name  | SDRi | SI-SDRi |
-|--------|--------|
+|--------|--------|--------|
 |       Tiger Large  |     14.22   | 13.73 |
 |       Tiger Fast v1  |   12.75     | 12.35 |
 
