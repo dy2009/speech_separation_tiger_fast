@@ -4,6 +4,8 @@
 
 Speed on CPU:
 
+inference RTF: Real-Time Factor​（实时因子）
+
 | Model Name  | CPU RTF (binding 1 cpu core) |
 |--------|--------|
 |       Tiger Large  |    3.9 |
@@ -13,7 +15,7 @@ Speed on CPU:
 effect on EchoSet:
 
 | Model Name  | SDRi | SI-SDRi |
-|--------|--------|
+|--------|--------|--------|
 |       Tiger Large  |     14.22   | 13.73 |
 |       Tiger Fast v1  |   12.75     | 12.35 |
 
